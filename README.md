@@ -26,17 +26,17 @@ Features of Done4Today include:
 ### MVP
 
 * User Auth(Login/Register)
- * Stay loggedin if page is refreshed
+  * Stay loggedin if page is refreshed
 * Wishlist functionality-
- * User creates a wishlist
- * User adds items to wishlist
- * User deletes items from wishlist
- * User edits items on wishlist
+  * User creates a wishlist
+  * User adds items to wishlist
+  * User deletes items from wishlist
+  * User edits items on wishlist
 * Manifest material GUI 
- * Animation effects for certain clicks
- *  Interacting 404 page as well as a loading icon/page
- *  Homepage shows wishlist 
- *  Updating design to be more responsive
+  * Animation effects for certain clicks
+  *  Interacting 404 page as well as a loading icon/page
+  *  Homepage shows wishlist 
+  *  Updating design to be more responsive
 
 
 ### Post-MVP:
