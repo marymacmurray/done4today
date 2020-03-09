@@ -36,6 +36,7 @@ Features of Done4Today include:
  * Animation effects for certain clicks
  *  Interacting 404 page as well as a loading icon/page
  *  Homepage shows wishlist 
+ *  Updating design to be more responsive
 
 
 ### Post-MVP:
@@ -48,5 +49,5 @@ Features of Done4Today include:
 * Marketplace to hire fellow space-goers and friendly aliens as travel companions/navigators/general crew members.
 
 
-#### Dependencies:
+### Dependencies:
 MongoDB, Mongoose, Express, Axios, cors, bcrypt, Body-Parser, Morgan, Faker, Jest, Supertest, NodeJS, React/React Router
