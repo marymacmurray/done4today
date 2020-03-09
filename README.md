@@ -26,15 +26,16 @@ Features of Done4Today include:
 ### MVP
 
 * User Auth(Login/Register)
-* Stay loggedin if page is refreshed
-* User creates a wishlist
-* User adds items to wishlist
-* User deletes items from wishlist
-* User edits items on wishlist
-* Homepage shows wishlist 
-* interacting 404 page as well as a loading icon/page.
-* Manifest material ui. 
-* Animation effects for certain clicks. 
+ * Stay loggedin if page is refreshed
+* Wishlist functionality-
+ * User creates a wishlist
+ * User adds items to wishlist
+ * User deletes items from wishlist
+ * User edits items on wishlist
+* Manifest material GUI 
+ * Animation effects for certain clicks
+ *  Interacting 404 page as well as a loading icon/page
+ *  Homepage shows wishlist 
 
 
 ### Post-MVP:
@@ -45,3 +46,7 @@ Features of Done4Today include:
 * Screen for Meteor and Asteroid alerts (asteroid alert api required). 
 * Facts section of UFO sightings with suggested items to purchase to prepare. 
 * Marketplace to hire fellow space-goers and friendly aliens as travel companions/navigators/general crew members.
+
+
+#### Dependencies:
+MongoDB, Mongoose, Express, Axios, cors, bcrypt, Body-Parser, Morgan, Faker, Jest, Supertest, NodeJS, React/React Router
