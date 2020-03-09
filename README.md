@@ -18,9 +18,16 @@ User deletes items from wishlist
 User edits items on wishlist
 Homepage shows wishlist
 
+interacting 404 page as well as a loading icon/page.
+Manifest material ui. 
+Animation effects for certain clicks. 
+
+
 ### Post-MVP:
 
-User can add more Wishlists
-User can change background color/image of wishlist page
-User can move items from one wishlist to another
-a marketplace to hire fellow space-goers and friendly aliens as travel companions/navigators/general crew members
+* User can add more Wishlists
+* User can change background color/image of wishlist page
+* User can move items from one wishlist to another
+* Screen for Meteor and Asteroid alerts (asteroid alert api required). 
+* Facts section of UFO sightings with suggested items to purchase to prepare. 
+* Marketplace to hire fellow space-goers and friendly aliens as travel companions/navigators/general crew members.
