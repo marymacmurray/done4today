@@ -1,37 +1,41 @@
-# moonMan
+#👾 moonMan 🌖
 
-moonMan is a web app for people who feel more at home looking up into the stars than they do lounging in their earthly homes. With moonMan’s new app, use the interactive and intuitive interface to easily browse through a collection of new and used space ship parts that, when all put together, will allow you to travel the expanse of virtual space. Don’t see the parts you need, search, add, edit, and delete many of components you find. Favorite your parts, add them together, and off you go, whether you are trying to find the planet on which you were probably born, or if your’e just visiting. Includes Authentication and authroization features.
+moonMan is a fully functional CRUD app with authentication and authorization designed by the done4today team, part of the Mandalorians winter 2020 Software Engineering Immersive cohort at General Assembly.
 
-## Feature List
-Features of moonMan include browsing, searching, wish list, and CRUD operations. 
 
-## Done4Today is a web app for people who feel more at home looking up into the stars than they do lounging in their Earthly homes. 
-With moonMan’s new app, use the interactive and intuitive interface to easily browse through a collection of new and used space ship parts that, when all put together, will allow you to travel the expanse of virtual space. 
+## moonMan is a web app for people who feel more at home looking up into the stars than they do lounging in their Earthly homes. 
+With the newly redesigned moonMan app, use the interactive and intuitive interface to easily browse through a collection of new and used space ship parts that, when all put together, will allow you to travel the expanse of virtual space. 
 #### Don’t see the parts you need? 
-* Search, add, edit, and delete many of components you find. 
-* Favorite your parts, add them together, and off you go, whether you are trying to find the planet on which you were probably born, or if you're just visiting. 
-* Includes authentication and authorization features.
+* Search, add, edit, and delete ship parts you need. 
+* Add favorite parts to your wishlist and off you go, whether you are trying to find the planet on which you were probably born, or if you're just visiting. 
+* Includes authentication and authorization.
 
-## Created, designed, and developed by:
+## done4today team:
 * Mary Mac Mac Murray, 
 * Ro Cosenza, 
 * Jonathan Hernandez, 
 * Rico DeRosa
 
-for the GA Software Engineering Immersive Mandalorians Unit 3 Project.
+
+## Colors
+<img src="color_palette.png" width="500" height="250" text-align="center">
 
 ## Wireframes
-[Mobile Home]
+
+#### Mobile - Home
 <img src="https://i.imgur.com/J7V53qA.jpg" width="300" height="400">
-[Mobile Wishlist] 
+
+#### Mobile - Wishlist
 <img src="https://i.imgur.com/WZPhvv6.jpg" width="300" height="400">
-[Desktop Home] 
+
+#### Desktop - Home
 <img src="https://i.imgur.com/YGjNMxO.jpg" width="300" height="400">
-[Desktop Wishlist] 
+
+#### Desktop - Wishlist
 <img src="https://i.imgur.com/kr6VQIW.jpg" width="300" height="400">
 
 
-## Feature List
+## 👩🏽‍🚀 Feature List
 Features of moonMan include:
 
 * Browsing space items
@@ -39,7 +43,7 @@ Features of moonMan include:
 * Adding space items to wishlist
 * CRUD operations
 
-### MVP
+###🚀 MVP
 
 #### Bug Fixes
 * Stay loggedin if page is refreshed.
@@ -65,7 +69,7 @@ Features of moonMan include:
   * Includes a search bar
 
 
-### Post-MVP:
+###🌟 Post-MVP:
 * React-Bootstrap Material UI 
   *  Animation effects for certain clicks
   *  Interacting 404 page as well as a loading icon/page
@@ -76,7 +80,7 @@ Features of moonMan include:
 * Add images to each item
 * Sound effects
 
-### Component Hierarchy:
+###🗒️ Component Hierarchy:
 
 ```
 Container
@@ -87,5 +91,20 @@ Container
 ```
 
 
-### Dependencies:
-MongoDB, Mongoose, Express, Axios, cors, bcrypt, Body-Parser, Morgan, Faker, Jest, Supertest, NodeJS, React/React Router
+
+###📦 Dependencies:
+FrontEnd:
+* React/React Router
+* axios
+* cors
+* bcrypt
+* Body-Parser
+
+Backend:
+* Faker
+* MongoDB/Mongoose
+* Express
+* Morgan
+
+Testing:
+* Jest 
