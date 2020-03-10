@@ -6,8 +6,8 @@ moonMan is a fully functional CRUD app with authentication and authorization des
 ## moonMan is a web app for people who feel more at home looking up into the stars than they do lounging in their Earthly homes. 
 With the newly redesigned moonMan app, use the interactive and intuitive interface to easily browse through a collection of new and used space ship parts that, when all put together, will allow you to travel the expanse of virtual space. 
 #### Don’t see the parts you need? 
-* Search, add, edit, and delete ship parts you need. 
-* Add favorite parts to your wishlist and off you go, whether you are trying to find the planet on which you were probably born, or if you're just visiting. 
+* Search, add, edit, and delete parts as needed. 
+* Add favorite parts to your wishlist and off you go!  Whether you are trying to find the planet on which you were probably born, or if you're just visiting. 
 * Includes authentication and authorization.
 
 ## moonMan team:
