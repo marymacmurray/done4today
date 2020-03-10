@@ -23,7 +23,7 @@ With the newly redesigned moonMan app, use the interactive and intuitive interfa
 ## Wireframes
 
 #### Mobile 
-<img src="mobile-mockup.png">
+<img src="mobile-mockup2.png">
 
 #### Desktop
 <img src="desktop-mockup.png">
