@@ -16,14 +16,19 @@ With moonMan’s new app, use the interactive and intuitive interface to easily 
 * Mary Mac Mac Murray, 
 * Ro Cosenza, 
 * Jonathan Hernandez, 
-* & Rico DeRosa
+* Rico DeRosa
+
 for the GA Software Engineering Immersive Mandalorians Unit 3 Project.
 
 ## Wireframes
-![Mobile Home]<img src="https://i.imgur.com/J7V53qA.jpg" width="200" height="300">
-![Mobile Wishlist] <img src="https://i.imgur.com/WZPhvv6.jpg" width="200" height="300">
-![Desktop Home] <img src="https://i.imgur.com/YGjNMxO.jpg" width="200" height="300">
-![Desktop Wishlist] <img src="https://i.imgur.com/kr6VQIW.jpg" width="200" height="300">
+[Mobile Home]
+<img src="https://i.imgur.com/J7V53qA.jpg" width="300" height="400">
+[Mobile Wishlist] 
+<img src="https://i.imgur.com/WZPhvv6.jpg" width="300" height="400">
+[Desktop Home] 
+<img src="https://i.imgur.com/YGjNMxO.jpg" width="300" height="400">
+[Desktop Wishlist] 
+<img src="https://i.imgur.com/kr6VQIW.jpg" width="300" height="400">
 
 
 ## Feature List
