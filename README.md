@@ -1,4 +1,4 @@
-#👾 moonMan 🌖
+# 👾 moonMan 🌖
 
 moonMan is a fully functional CRUD app with authentication and authorization designed by the done4today team, part of the Mandalorians winter 2020 Software Engineering Immersive cohort at General Assembly.
 
@@ -43,7 +43,7 @@ Features of moonMan include:
 * Adding space items to wishlist
 * CRUD operations
 
-###🚀 MVP
+### 🚀 MVP
 
 #### Bug Fixes
 * Stay loggedin if page is refreshed.
@@ -69,7 +69,7 @@ Features of moonMan include:
   * Includes a search bar
 
 
-###🌟 Post-MVP:
+### 🌟 Post-MVP:
 * React-Bootstrap Material UI 
   *  Animation effects for certain clicks
   *  Interacting 404 page as well as a loading icon/page
@@ -80,7 +80,7 @@ Features of moonMan include:
 * Add images to each item
 * Sound effects
 
-###🗒️ Component Hierarchy:
+### 🗒️ Component Hierarchy:
 
 ```
 Container
@@ -92,7 +92,7 @@ Container
 
 
 
-###📦 Dependencies:
+### 📦 Dependencies:
 FrontEnd:
 * React/React Router
 * axios
