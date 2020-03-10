@@ -1,6 +1,6 @@
 # 👾 moonMan 🌖
 
-moonMan is a fully functional CRUD app with authentication and authorization designed by our team as part of the Mandalorians winter 2020 Software Engineering Immersive cohort at General Assembly.
+moonMan is a fully functional CRUD app with authentication and authorization.  It was designed by our team as part of the Mandalorians winter 2020 Software Engineering Immersive cohort at General Assembly.
 
 
 ## moonMan is a web app for people who feel more at home looking up into the stars than they do lounging in their Earthly homes. 
