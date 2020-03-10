@@ -79,9 +79,8 @@ Features of moonMan include:
 ```
 Container
   |__ Wishlist
-  |__ Search
-     |__ ItemsDisplay
-
+  |__ Browse items
+     |__ Search
 ```
 
 
