@@ -18,21 +18,15 @@ With the newly redesigned moonMan app, use the interactive and intuitive interfa
 
 
 ## Colors
-<img src="color_palette.png" width="500" height="250" text-align="center">
+<img src="color-palette.png">
 
 ## Wireframes
 
-#### Mobile - Home
-<img src="https://i.imgur.com/J7V53qA.jpg" width="300" height="400">
+#### Mobile 
+<img src="mobile-mockup.png">
 
-#### Mobile - Wishlist
-<img src="https://i.imgur.com/WZPhvv6.jpg" width="300" height="400">
-
-#### Desktop - Home
-<img src="https://i.imgur.com/YGjNMxO.jpg" width="300" height="400">
-
-#### Desktop - Wishlist
-<img src="https://i.imgur.com/kr6VQIW.jpg" width="300" height="400">
+#### Desktop
+<img src="desktop-mockup.png">
 
 
 ## 👩🏽‍🚀 Feature List
