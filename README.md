@@ -1,6 +1,6 @@
 # 👾 moonMan 🌖
 
-moonMan is a fully functional CRUD app with authentication and authorization designed by the done4today team, part of the Mandalorians winter 2020 Software Engineering Immersive cohort at General Assembly.
+moonMan is a fully functional CRUD app with authentication and authorization designed by our team as part of the Mandalorians winter 2020 Software Engineering Immersive cohort at General Assembly.
 
 
 ## moonMan is a web app for people who feel more at home looking up into the stars than they do lounging in their Earthly homes. 
@@ -10,7 +10,7 @@ With the newly redesigned moonMan app, use the interactive and intuitive interfa
 * Add favorite parts to your wishlist and off you go, whether you are trying to find the planet on which you were probably born, or if you're just visiting. 
 * Includes authentication and authorization.
 
-## done4today team:
+## moonMan team:
 * Mary Mac Mac Murray, 
 * Ro Cosenza, 
 * Jonathan Hernandez, 
