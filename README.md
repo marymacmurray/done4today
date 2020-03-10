@@ -11,7 +11,7 @@ With the newly redesigned moonMan app, use the interactive and intuitive interfa
 * Includes authentication and authorization.
 
 ## moonMan team:
-* Mary Mac Mac Murray, 
+* Mary Mac Murray, 
 * Ro Cosenza, 
 * Jonathan Hernandez, 
 * Rico DeRosa
