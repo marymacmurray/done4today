@@ -13,16 +13,21 @@ With moonMan’s new app, use the interactive and intuitive interface to easily 
 * Includes authentication and authorization features.
 
 ## Created, designed, and developed by:
-* Mary Mac Mac Murry, 
+* Mary Mac Mac Murray, 
 * Ro Cosenza, 
 * Jonathan Hernandez, 
-* & Rico DeRosa-
+* & Rico DeRosa
 for the GA Software Engineering Immersive Mandalorians Unit 3 Project.
 
 ## Wireframes
+![Mobile Home] Format: ![Mobile Home mockup](https://i.imgur.com/J7V53qA.jpg)
+![Mobile Wishlist] Format: ![Mobile Wishlist mockup](https://i.imgur.com/WZPhvv6.jpg)
+![Desktop Home] Format: ![Desktop Home mockup](https://i.imgur.com/YGjNMxO.jpg)
+![Desktop Wishlist] Format: ![Desktop Wishlist mockup](https://i.imgur.com/kr6VQIW.jpg)
+
 
 ## Feature List
-Features of Done4Today include:
+Features of moonMan include:
 
 * Browsing space items
 * Searching space items
